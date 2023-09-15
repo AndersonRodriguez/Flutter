@@ -9,6 +9,8 @@
  * "city": "Bogota",
  * }
  * 
+ * Person.fromMap(anderson)
+ * 
  * Transformar este map en un objeto Person por medio del contructor
  * 
  * Metodo que imprima el nombre de la persona y una accion
