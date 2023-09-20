@@ -17,6 +17,7 @@ void main() {
 
   superman.correr();
   superman.cantar('Krypton');
+  superman.usasSuPoder();
 
   // print(superman._poder);
 }

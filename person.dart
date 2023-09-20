@@ -44,4 +44,8 @@ class Hero extends Person {
       print('mas lento!!!');
     }
   }
+
+  usasSuPoder() {
+    print('El Super Hero usa el poder ${_poder}');
+  }
 }
